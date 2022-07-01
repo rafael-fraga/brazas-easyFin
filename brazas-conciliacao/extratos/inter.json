@@ -1,0 +1,324 @@
+{
+    "transacoes": [
+        {
+            "dataEntrada": "2022-06-23",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "C",
+            "valor": "356.54",
+            "titulo": "Pix recebido",
+            "descricao": "PIX RECEBIDO - Cp :60701190-MAKTOM CHAIDEY DA C NOGUEIRA"
+        },
+        {
+            "dataEntrada": "2022-06-23",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "C",
+            "valor": "259.9",
+            "titulo": "Pix recebido",
+            "descricao": "PIX RECEBIDO - Cp :60746948-LUCIANA ANDRADE DE SOUZA LOBATO"
+        },
+        {
+            "dataEntrada": "2022-06-23",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "C",
+            "valor": "3200.0",
+            "titulo": "Pix recebido",
+            "descricao": "PIX RECEBIDO - Cp :60701190-IAN ALONE PEREIRA"
+        },
+        {
+            "dataEntrada": "2022-06-23",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "C",
+            "valor": "306.8",
+            "titulo": "Pix recebido",
+            "descricao": "PIX RECEBIDO - Cp :00000000-ANA CAROLINA M A FREITAS"
+        },
+        {
+            "dataEntrada": "2022-06-23",
+            "tipoTransacao": "PAGAMENTO",
+            "tipoOperacao": "D",
+            "valor": "8143.79",
+            "titulo": "Pagamento de título",
+            "descricao": "PAGAMENTO DE TITULO - Fornecedor BBQ - Cara Preta"
+        },
+        {
+            "dataEntrada": "2022-06-23",
+            "tipoTransacao": "TRANSFERENCIA",
+            "tipoOperacao": "C",
+            "valor": "8143.79",
+            "titulo": "Transferência recebida",
+            "descricao": "TRANSFERENCIA A CREDITO - 00019 0076226557 MARCELLA ESTANISLAU MACEDO 112076"
+        },
+        {
+            "dataEntrada": "2022-06-23",
+            "tipoTransacao": "PAGAMENTO",
+            "tipoOperacao": "D",
+            "valor": "893.33",
+            "titulo": "Pagamento de título",
+            "descricao": "PAGAMENTO DE TITULO - Embalagens BBQ"
+        },
+        {
+            "dataEntrada": "2022-06-23",
+            "tipoTransacao": "PAGAMENTO",
+            "tipoOperacao": "D",
+            "valor": "98.4",
+            "titulo": "Pagamento de título",
+            "descricao": "PAGAMENTO DE TITULO - avivar"
+        },
+        {
+            "dataEntrada": "2022-06-23",
+            "tipoTransacao": "PAGAMENTO",
+            "tipoOperacao": "D",
+            "valor": "800.21",
+            "titulo": "Pagamento de título",
+            "descricao": "PAGAMENTO DE TITULO - porcao"
+        },
+        {
+            "dataEntrada": "2022-06-22",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "C",
+            "valor": "676.21",
+            "titulo": "Pix recebido",
+            "descricao": "PIX RECEBIDO - Cp :60701190-LUDMILA DELFINO TEDESCO"
+        },
+        {
+            "dataEntrada": "2022-06-22",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "C",
+            "valor": "1200.0",
+            "titulo": "Pix recebido",
+            "descricao": "PIX RECEBIDO - Cp :58160789-BRAZAS COMERCIO VAREJISTA DE"
+        },
+        {
+            "dataEntrada": "2022-06-22",
+            "tipoTransacao": "TRANSFERENCIA",
+            "tipoOperacao": "C",
+            "valor": "1975.94",
+            "titulo": "Transferência recebida",
+            "descricao": "TRANSFERENCIA A CREDITO - 00019 0076226557 MARCELLA ESTANISLAU MACEDO 112076"
+        },
+        {
+            "dataEntrada": "2022-06-22",
+            "tipoTransacao": "PAGAMENTO",
+            "tipoOperacao": "D",
+            "valor": "360.0",
+            "titulo": "Pagamento de título",
+            "descricao": "PAGAMENTO DE TITULO - cora"
+        },
+        {
+            "dataEntrada": "2022-06-22",
+            "tipoTransacao": "PAGAMENTO",
+            "tipoOperacao": "D",
+            "valor": "1975.94",
+            "titulo": "Pagamento de título",
+            "descricao": "PAGAMENTO DE TITULO - carnes marfrig"
+        },
+        {
+            "dataEntrada": "2022-06-22",
+            "tipoTransacao": "PAGAMENTO",
+            "tipoOperacao": "D",
+            "valor": "393.88",
+            "titulo": "Pagamento de título",
+            "descricao": "PAGAMENTO DE TITULO - Paes dona Beth"
+        },
+        {
+            "dataEntrada": "2022-06-22",
+            "tipoTransacao": "PAGAMENTO",
+            "tipoOperacao": "D",
+            "valor": "1287.69",
+            "titulo": "Pagamento de título",
+            "descricao": "PAGAMENTO DE TITULO - Marfrig"
+        },
+        {
+            "dataEntrada": "2022-06-22",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "D",
+            "valor": "199.0",
+            "titulo": "Pix enviado ",
+            "descricao": "PIX ENVIADO INTERNO - 00019 0015126277 BRUNO ARAUJO"
+        },
+        {
+            "dataEntrada": "2022-06-22",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "C",
+            "valor": "461.79",
+            "titulo": "Pix recebido",
+            "descricao": "PIX RECEBIDO INTERNO - 00019 0011765550 GABRIEL PALHARES"
+        },
+        {
+            "dataEntrada": "2022-06-21",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "C",
+            "valor": "29.9",
+            "titulo": "Pix recebido",
+            "descricao": "PIX RECEBIDO INTERNO - 00019 0008476632 DANIEL NAVES"
+        },
+        {
+            "dataEntrada": "2022-06-21",
+            "tipoTransacao": "PAGAMENTO",
+            "tipoOperacao": "D",
+            "valor": "474.88",
+            "titulo": "Pagamento de título",
+            "descricao": "PAGAMENTO DE TITULO - imperial"
+        },
+        {
+            "dataEntrada": "2022-06-21",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "D",
+            "valor": "2786.56",
+            "titulo": "Pix enviado ",
+            "descricao": "PIX ENVIADO - Cp :18236120-Deiby Roberto da Silva Oliveira"
+        },
+        {
+            "dataEntrada": "2022-06-21",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "D",
+            "valor": "200.0",
+            "titulo": "Pix enviado ",
+            "descricao": "PIX ENVIADO - Cp :31872495-Wagner Batista de Barcelos"
+        },
+        {
+            "dataEntrada": "2022-06-21",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "D",
+            "valor": "200.0",
+            "titulo": "Pix enviado ",
+            "descricao": "PIX ENVIADO - Cp :60746948-GILBERTO ALVES BERNARDES             "
+        },
+        {
+            "dataEntrada": "2022-06-21",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "D",
+            "valor": "502.85",
+            "titulo": "Pix enviado ",
+            "descricao": "PIX ENVIADO - Cp :18236120-Daniel de Oliveira Cassiano"
+        },
+        {
+            "dataEntrada": "2022-06-21",
+            "tipoTransacao": "TRANSFERENCIA",
+            "tipoOperacao": "C",
+            "valor": "173.86",
+            "titulo": "Transferência recebida",
+            "descricao": "TRANSFERENCIA A CREDITO - 00019 0076226557 MARCELLA ESTANISLAU MACEDO 112076"
+        },
+        {
+            "dataEntrada": "2022-06-20",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "C",
+            "valor": "1691.19",
+            "titulo": "Pix recebido",
+            "descricao": "PIX RECEBIDO - Cp :60701190-MICHELLE MENDONCA V M FRANCO"
+        },
+        {
+            "dataEntrada": "2022-06-20",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "C",
+            "valor": "3900.0",
+            "titulo": "Pix recebido",
+            "descricao": "PIX RECEBIDO - Cp :58160789-BRAZAS COMERCIO VAREJISTA DE"
+        },
+        {
+            "dataEntrada": "2022-06-20",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "C",
+            "valor": "1352.9",
+            "titulo": "Pix recebido",
+            "descricao": "PIX RECEBIDO - Cp :60701190-FATIMA SANTANA C EIRELI"
+        },
+        {
+            "dataEntrada": "2022-06-20",
+            "tipoTransacao": "TRANSFERENCIA",
+            "tipoOperacao": "D",
+            "valor": "1000.0",
+            "titulo": "Transferência enviada",
+            "descricao": "TRANSFERENCIA A DEBITO - 00019 0014306123 ALEXANDRE COELHO"
+        },
+        {
+            "dataEntrada": "2022-06-20",
+            "tipoTransacao": "PAGAMENTO",
+            "tipoOperacao": "D",
+            "valor": "263.87",
+            "titulo": "Pagamento efetuado",
+            "descricao": "PAGAMENTO DE CONVENIO - irrf"
+        },
+        {
+            "dataEntrada": "2022-06-20",
+            "tipoTransacao": "PAGAMENTO",
+            "tipoOperacao": "D",
+            "valor": "750.85",
+            "titulo": "Pagamento de título",
+            "descricao": "PAGAMENTO DE TITULO - frig ind vale"
+        },
+        {
+            "dataEntrada": "2022-06-20",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "D",
+            "valor": "120.0",
+            "titulo": "Pix enviado ",
+            "descricao": "PIX ENVIADO - Cp :60701190-Camila Rodrigues Fernandes Ramos"
+        },
+        {
+            "dataEntrada": "2022-06-20",
+            "tipoTransacao": "PAGAMENTO",
+            "tipoOperacao": "D",
+            "valor": "350.0",
+            "titulo": "Pagamento de título",
+            "descricao": "PAGAMENTO DE TITULO - jp distribuidora (carvão)"
+        },
+        {
+            "dataEntrada": "2022-06-20",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "D",
+            "valor": "340.83",
+            "titulo": "Pix enviado ",
+            "descricao": "PIX ENVIADO - Cp :60746948-MAXUEL LUIS JERONIMO DE JESUS"
+        },
+        {
+            "dataEntrada": "2022-06-20",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "D",
+            "valor": "64.81",
+            "titulo": "Pix enviado ",
+            "descricao": "PIX ENVIADO INTERNO - 00019 0076199320 MARCELLA ESTANISLAU MACEDO"
+        },
+        {
+            "dataEntrada": "2022-06-20",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "C",
+            "valor": "968.2",
+            "titulo": "Pix recebido",
+            "descricao": "PIX RECEBIDO - Cp :60701190-ANA CAROLINA SANTIAGO ROSAES"
+        },
+        {
+            "dataEntrada": "2022-06-20",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "C",
+            "valor": "954.1",
+            "titulo": "Pix recebido",
+            "descricao": "PIX RECEBIDO - Cp :00000000-HELCIO NUNAN MACEDO"
+        },
+        {
+            "dataEntrada": "2022-06-20",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "C",
+            "valor": "156.81",
+            "titulo": "Pix recebido",
+            "descricao": "PIX RECEBIDO - Cp :90400888-DIOGO CAETANO COSTA PINTO"
+        },
+        {
+            "dataEntrada": "2022-06-20",
+            "tipoTransacao": "PIX",
+            "tipoOperacao": "C",
+            "valor": "604.0",
+            "titulo": "Pix recebido",
+            "descricao": "PIX RECEBIDO - Cp :60746948-INGRID PINHEIRO DUARTE"
+        },
+        {
+            "dataEntrada": "2022-06-20",
+            "tipoTransacao": "TRANSFERENCIA",
+            "tipoOperacao": "C",
+            "valor": "582.0",
+            "titulo": "DOC Recebido",
+            "descricao": "DOC - CREDITO EM CONTA - 001 0033 0007126310 LUIZA M LEMOS"
+        }
+    ]
+}
